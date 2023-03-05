@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abenbjohn10
 - 👀 I’m interested in Coding,Gaming,Blockchain,Cloud....
-- 🌱 I’m currently learning DBMS,UNIX
+- 🌱 I’m currently learning DBMS,Python
 - 📫 How to reach me - Mail-abenbjohn10@gmail.com, LinkedIn-Aben B John, Twitter-@abenbjohn_x_x.
 
 <!---
